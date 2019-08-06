@@ -1,0 +1,41 @@
+.view-zone {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.view-header {
+    display: block;
+    text-align: center;
+}
+
+.view-video {
+    display: block;
+    width: 50%;
+    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video-invisible {
+    display: none;
+}
+
+.view-video-left {
+    display: inline-block;
+    width: 80%;
+    float: left;
+}
+
+.view-video-right {
+    display: inline-block;
+    width: 19%;
+    float: right;
+}
+
+.view-editor {
+    display: block;
+    text-align: center;
+}

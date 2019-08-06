@@ -1,0 +1,7 @@
+<nav class="navbar">
+    <a routerLink="/channels" class="navbar-item" (click)="selected = 1" [ngClass]="{active: selected == 1}">All Channels</a>
+    <a routerLink="/my-channel" class="navbar-item" (click)="selected = 2" [ngClass]="{active: selected == 2}">My Channel</a>
+    <a routerLink="/settings" class="navbar-item" (click)="selected = 3" [ngClass]="{active: selected == 3}">Settings</a>
+    <a routerLink="/inbox" class="navbar-item" (click)="selected = 4" [ngClass]="{active: selected == 4}">Inbox</a>
+</nav>
+<router-outlet></router-outlet>

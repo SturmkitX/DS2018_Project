@@ -1,0 +1,73 @@
+.channel-list {
+    display: block;
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+.channel-item {
+    border: 1px solid black;
+    border-radius: 5px;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+}
+
+.channel-item:hover {
+    background-color: lightgray;
+}
+
+.list-row-wrapper {
+    display: inline-block;
+    width: 95%;
+    float: left;
+}
+
+.list-row {
+    display: block;
+    padding: 5px;
+}
+
+.list-col {
+    display: inline-block;
+    width: 50%;
+}
+
+.list-row-watch {
+    display: inline-block;
+    width: 4%;
+    float: right;
+    height: 100%;
+    text-align: center;
+    position: absolute;
+    background-color: lightblue;
+}
+
+.list-watch-btn {
+    margin-top: auto;
+    margin-bottom: auto;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+.list-watch-btn a {
+    text-decoration: none;
+}
+
+.channel-zone {
+    display: block;
+    text-align: center;
+}
+
+.search-box {
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: gray;
+}

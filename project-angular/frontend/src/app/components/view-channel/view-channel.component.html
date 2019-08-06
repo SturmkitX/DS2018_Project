@@ -1,0 +1,50 @@
+<div class="view-zone">
+    <div class="view-header">
+        <h1 *ngIf="channel">Welcome to {{channel.ownerName}}&apos;s channel</h1>
+        <p><button (click)="toggleCompose()">Send private message</button></p>
+
+        <div *ngIf="composeEnabled">
+            Subject: <input type="text" [(ngModel)]="message.subject" /> <br/>
+            Content: <input type="text" [(ngModel)]="message.content" /> <br />
+            <input type="button" (click)="sendMessage()" value="Send Message" />
+        </div>
+    </div>
+
+
+    <span [ngClass]="{'video-invisible': videoSource}" class="view-video">
+        No video in playlist yet
+    </span>
+    <div id="view-video">
+        <video id="myVideo" class="view-video-left" controls>
+            <source src="{{videoSource}}" />
+            No video in playlist yet
+        </video>
+
+        <div class="view-video-right">
+            <textarea [value]="commentSection" ></textarea>
+            <input type="text" [(ngModel)]="userComment" placeholder="Your comment here" />
+            <input type="button" (click)="sendComment()" value="Send Comment" />
+        </div>
+
+    </div>
+
+    <textarea [value]="debugInfo" *ngIf="userOwnsChannel"></textarea>
+
+    <div class="view-editor">
+        <app-channel-editor *ngIf="userOwnsChannel" [channel]="channel"></app-channel-editor>
+    </div>
+
+
+    <ul *ngIf="channelComments">
+        <li *ngFor="let comment of channelComments">
+            By {{comment.authorName}} at {{comment.time}}: {{comment.content}}
+        </li>
+    </ul>
+
+    <div *ngIf="!userOwnsChannel">
+        <input [(ngModel)]="postedComment.content" />
+        <input type="button" value="Post comment" (click)="postComment()" />
+    </div>
+
+</div>
+

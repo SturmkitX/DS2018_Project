@@ -1,0 +1,26 @@
+<div class="channel-zone">
+    <h2>The list of active channels</h2>
+    <input type="search" placeholder="Enter search name..." class="search-box" (change)="filterChannels()" [(ngModel)]="nameSearchField" />
+</div>
+
+<ul *ngIf="channels" class="channel-list">
+    <li *ngFor="let channel of shownChannels" class="channel-item">
+        <div class="list-row-wrapper">
+            <div class="list-row">
+                <span class="list-col">Name: {{channel.name}}</span>
+                <span class="list-col">Owner: {{channel.ownerName}}</span>
+            </div>
+            <div class="list-row">
+                <span class="list-col">Description: {{channel.description}}</span>
+                <span class="list-col">Category: {{channel.category}}</span>
+            </div>
+        </div>
+
+        <div class="list-row-watch">
+            <span class="list-watch-btn"><a routerLink="/channel/{{channel.displayId}}">Watch</a></span>
+        </div>
+
+    </li>
+</ul>
+
+<router-outlet></router-outlet>

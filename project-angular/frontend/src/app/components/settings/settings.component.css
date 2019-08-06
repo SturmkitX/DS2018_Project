@@ -1,0 +1,100 @@
+.history-visible {
+    display: block;
+}
+
+.history-invisible {
+    display: none;
+}
+
+.settings-table {
+    display: block;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.settings-table tbody {
+    display: block;
+}
+
+.settings-table td {
+    display: inline-block;
+    width: 48%;
+    text-align: center;
+}
+
+.settings-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.settings-table tr {
+    border-bottom: 1px solid black;
+}
+
+.table-row {
+    display: block;
+    text-align: center;
+}
+
+.submit-button {
+    font-size: 18px;
+    color: gray;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.submit-button:hover {
+    background-color: orange;
+}
+
+.checkbox-btn {
+    display: none;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.emails-active {
+    background-color: green;
+}
+
+.emails-inactive {
+    background-color: gray;
+}
+
+.history-zone {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+
+.history-zone p {
+    font-weight: bold;
+}
+
+.history-table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.history-table tbody, .history-table thead {
+    display: block;
+}
+
+
+.history-table td, .history-table th {
+    width: 32%;
+    display: inline-block;
+}
+
+.history-table tr {
+    border: 1px solid black;
+    display: block;
+}

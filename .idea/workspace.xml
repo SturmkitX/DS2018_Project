@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="projectserver" />
+      <module name="project" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6594d9dd-6756-48d0-ae74-ee7dc50fc8e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-server/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-server/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-server/src/main/java/starter/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-server/src/main/java/starter/Application.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project-server/target/" />
+    <ignored path="$PROJECT_DIR$/project-common/target/" />
+    <ignored path="$PROJECT_DIR$/project-presentation/target/" />
+    <ignored path="$PROJECT_DIR$/project-dao/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-server/src/main/java/utils/MailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="87" column="33" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-server/src/main/java/config/WebSocketConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-server/src/main/java/config/MySocketHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/services/channel.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>websocket</find>
+      <find>&lt;input</find>
+      <find>DataIntegrityViolationException</find>
+      <find>selected</find>
+      <find>videoSource</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/project-server/src/main/java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/models/history.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/models/history-entry.ts" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/dto/HistoryDTO.java" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/services/history-service.service.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/services/history.service.ts" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/HistoryController.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/resources/confirmation-email.html" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/utils/MailSender.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/repository/EmailTypeRepository.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/service/EmailTypeService.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/service/EmailService.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/ExceptionController.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/LogInController.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/utils/MailService.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/resources/conversation-email.html" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/repository/UserGenderRepository.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/service/UserGenderService.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/ChannelController.java" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/channel-editor/channel-editor.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/channel-editor/channel-editor.component.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/models/ChannelComment.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/models/channel-comment.ts" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/services/channel.service.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/services/user.service.ts" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/repository/HistoryRepository.java" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/service/HistoryService.java" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.css" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.css" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.css" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.css" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.css" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.html" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.css" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.html" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/starter/Application.java" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.ts" />
+        <option value="$PROJECT_DIR$/project-server/src/main/java/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ds-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ds-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="36" />
+    <option name="width" value="1280" />
+    <option name="height" value="968" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="user-channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project-server" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547030810448" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last.edited.regexp" value="cacat@jeg.ro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/project-angular/frontend/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MailSender">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="starter.Application" />
+      <module name="project-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="starter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailSender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.MailSender" />
+      <module name="project-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utcluj.bogdan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.utcluj.bogdan" />
+      <option name="MAIN_CLASS_NAME" value="com.utcluj.bogdan.AccessTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utcluj.bogdan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.utcluj.bogdan" />
+      <option name="MAIN_CLASS_NAME" value="com.utcluj.bogdan.UserTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.changeInfoFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utcluj.bogdan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.utcluj.bogdan" />
+      <option name="MAIN_CLASS_NAME" value="com.utcluj.bogdan.UserTest" />
+      <option name="METHOD_NAME" value="changeInfoFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="projectcommon" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="projectcommon" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="project-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="starter.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.MailSender" />
+      <item itemvalue="JUnit.AccessTest" />
+      <item itemvalue="JUnit.UserTest.changeInfoFail" />
+      <item itemvalue="JUnit.UserTest" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.MailSender" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.UserTest.changeInfoFail" />
+        <item itemvalue="JUnit.AccessTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6594d9dd-6756-48d0-ae74-ee7dc50fc8e5" name="Default Changelist" comment="" />
+      <created>1541185744165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541185744165</updated>
+      <workItem from="1544735179103" duration="1214000" />
+      <workItem from="1544883618116" duration="6471000" />
+      <workItem from="1545120930587" duration="76000" />
+      <workItem from="1545738153467" duration="10975000" />
+      <workItem from="1545761375412" duration="10930000" />
+      <workItem from="1545819513831" duration="8769000" />
+      <workItem from="1545858278361" duration="3309000" />
+      <workItem from="1545906972435" duration="20703000" />
+      <workItem from="1545994341579" duration="719000" />
+      <workItem from="1546517846588" duration="2762000" />
+      <workItem from="1546528996217" duration="618000" />
+      <workItem from="1546531569820" duration="15957000" />
+      <workItem from="1546597098703" duration="10135000" />
+      <workItem from="1546861117935" duration="8928000" />
+      <workItem from="1546899381307" duration="4186000" />
+      <workItem from="1546936381309" duration="8923000" />
+      <workItem from="1546975117793" duration="7854000" />
+      <workItem from="1547019716750" duration="1847000" />
+      <workItem from="1547025283982" duration="4976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AccessFailTest - 2018.12.01 at 12h 46m 26s.xml">
+      <configuration name="AccessFailTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccessTest - 2018.12.01 at 12h 51m 08s.xml">
+      <configuration name="AccessTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccessTest_testAccessSuccess - 2018.12.01 at 12h 51m 46s.xml">
+      <configuration name="AccessTest.testAccessSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccessTest_testAccessSuccess - 2018.12.01 at 12h 53m 10s.xml">
+      <configuration name="AccessTest.testAccessSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccessTest_testInsufficientRights - 2018.12.01 at 12h 54m 35s.xml">
+      <configuration name="AccessTest.testInsufficientRights" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccessTest - 2018.12.01 at 12h 56m 42s.xml">
+      <configuration name="AccessTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_changeInfoFail - 2018.12.01 at 13h 12m 24s.xml">
+      <configuration name="UserTest.changeInfoFail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2018.12.01 at 13h 19m 46s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2018.12.01 at 13h 28m 17s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2018.12.01 at 13h 29m 23s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130627000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="27" width="1932" height="1033" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24174654" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32906976" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.34513274" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29756638" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.3488372" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32964602" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32743362" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" weight="0.3297491" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.12884927" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3298217" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3298217" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/LogInController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="105" column="48" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/repository/UserGenderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/service/UserGenderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/ChannelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/channel-editor/channel-editor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/channel-editor/channel-editor.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/channel-editor/channel-editor.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/dto/CommentDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/models/channel-comment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/entity/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/HistoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/service/HistoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/repository/HistoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/services/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="103" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/dashboard/dashboard.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/models/history-entry.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="86" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/channels/channels.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/models/channel.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/models/message.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/inbox/inbox.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#114#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="93" column="51" selection-start-line="93" selection-start-column="51" selection-end-line="93" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/view-channel/view-channel.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="143" column="53" selection-start-line="143" selection-start-column="53" selection-end-line="143" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/utils/ChannelStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/starter/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#1182#1328#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/utils/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/services/channel.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/config/MySocketHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="87" column="33" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-server/src/main/java/utils/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/settings/settings.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-angular/frontend/src/app/components/user-channel/user-channel.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

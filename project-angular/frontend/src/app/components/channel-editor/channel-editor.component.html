@@ -1,0 +1,9 @@
+<ol *ngIf="playlist">
+    <li *ngFor="let entry of playlist" [class.selected]="isSelected(entry)" (click)="setSelected(entry)">
+        URL: {{entry.url}} Duration: {{entry.duration}}
+        <input type="button" *ngIf="isSelected(entry)" (click)="removeSelected()" value="Remove" />
+    </li>
+</ol>
+
+<input type="text" [(ngModel)]="videoSource" />
+<input type="button" (click)="addSource()" value="Add source" />

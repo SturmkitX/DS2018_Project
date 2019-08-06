@@ -1,0 +1,46 @@
+<table *ngIf="user" class="settings-table">
+    <tr class="table-row">
+        <td>Username</td>
+        <td><input type="text" [(ngModel)]="user.name" /></td>
+    </tr>
+    <tr class="table-row">
+        <td>New Password</td>
+        <td><input type="password" [(ngModel)]="password1" /></td>
+    </tr>
+    <tr class="table-row">
+        <td>Confirm New Password</td>
+        <td><input type="password" [(ngModel)]="password2" /></td>
+    </tr>
+    <tr class="table-row">
+        <td>Receive emails</td>
+        <td>
+            <input type="checkbox" [(ngModel)]="user.enableEmails" class="checkbox-btn" />
+            <span class="dot" [ngClass]="user.enableEmails ? 'emails-active' : 'emails-inactive'" (click)="toggleEmailsActive()"></span>
+        </td>
+    </tr>
+    <tr class="table-row">
+        <td colspan="2"><input type="button" (click)="saveUser()" value="Update info" class="submit-button" /></td>
+    </tr>
+
+</table>
+
+<div *ngIf="userHistory" class="history-zone">
+    <p (click)="toggleHistoryVisible()">History (last 15 entries):</p>
+    <table [ngClass]="isHistoryVisible ? 'history-visible' : 'history-invisible'" class="history-table">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Channel name</th>
+                <th>Channel ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let entry of userHistory">
+                <td>{{entry.accessTime}}</td>
+                <td>{{entry.channelName}}</td>
+                <td>{{entry.channelId}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

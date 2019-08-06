@@ -1,0 +1,33 @@
+<div *ngIf="messages" class="message-zone">
+    <table class="inbox-table" [ngClass]="{'message-toggle-left': selectedMessage != null}">
+        <thead>
+            <tr>
+                <th>From</th>
+                <th>Subject</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let message of messages" (click)="selectMessage(message)">
+                <td>{{message.senderName}}</td>
+                <td>{{message.subject}}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table *ngIf="selectedMessage" class="message-table" [ngClass]="{'message-toggle-right': selectedMessage != null}">
+        <tbody>
+            <tr>
+                <td class="message-left-col">From</td>
+                <td class="message-right-col">{{selectedMessage.senderName}}</td>
+            </tr>
+            <tr>
+                <td class="message-left-col">Subject</td>
+                <td class="message-right-col">{{selectedMessage.subject}}</td>
+            </tr>
+            <tr>
+                <td rowspan="10" class="message-left-col">Content</td>
+                <td rowspan="10" class="message-right-col">{{selectedMessage.content}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

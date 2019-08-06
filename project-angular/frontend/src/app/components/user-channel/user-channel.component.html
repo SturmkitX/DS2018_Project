@@ -1,0 +1,40 @@
+<table *ngIf="channel">
+    <tr class="table-row">
+        <td>Channel Display ID</td>
+        <td>{{channel.displayId}}</td>
+    </tr>
+    <tr class="table-row">
+        <td>Channel active</td>
+        <td>
+            <input type="checkbox" [(ngModel)]="channel.active" (change)="logChange()" class="checkbox-btn"/>
+            <span class="dot" [ngClass]="{'channel-active': channel.active, 'channel-inactive': !channel.active}" (click)="toggleChannelActive()"></span>
+        </td>
+    </tr>
+    <tr class="table-row">
+        <td>Channel name</td>
+        <td><input type="text" [(ngModel)]="channel.name" (change)="logChange()" /></td>
+    </tr>
+    <tr class="table-row">
+        <td>Channel category</td>
+        <td>
+            <select [(ngModel)]="channel.category" (change)="logChange()">
+                <option *ngFor="let category of categories" value="{{category}}" [selected]="channel.category == category">
+                    {{category}}
+                </option>
+            </select>
+        </td>
+    </tr>
+    <tr class="table-row">
+        <td>Description</td>
+        <td><textarea [(ngModel)]="channel.description" ></textarea></td>
+    </tr>
+    <tr class="table-row">
+        <td colspan="2"><input type="submit" value="Save changes" (click)="saveChanges()" class="submit-button" /></td>
+    </tr>
+
+</table>
+
+<div class="canvas-chart">
+    <canvas id="myChart"></canvas>
+</div>
+
