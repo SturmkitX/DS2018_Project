@@ -23,7 +23,7 @@
     "@stomp/stompjs": "^5.1.0",
     "@types/chart.js": "^2.7.42",
     "browserify": "^16.2.3",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "core-js": "^2.6.1",
     "rxjs": "~6.3.3",
     "sockjs": "^0.3.19",
